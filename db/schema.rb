@@ -16,6 +16,7 @@ ActiveRecord::Schema.define(version: 2019_09_09_155135) do
   enable_extension "plpgsql"
 
   create_table "chat_boxes", force: :cascade do |t|
+    t.string "message"
     t.bigint "user_id", null: false
     t.bigint "chat_id", null: false
     t.datetime "created_at", precision: 6, null: false
@@ -26,7 +27,6 @@ ActiveRecord::Schema.define(version: 2019_09_09_155135) do
 
   create_table "chats", force: :cascade do |t|
     t.string "name"
-    t.string "message"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

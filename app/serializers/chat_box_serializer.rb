@@ -1,3 +1,3 @@
 class ChatBoxSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :id, :user_id, :chat_id, :message
 end
