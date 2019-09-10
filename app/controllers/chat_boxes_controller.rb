@@ -31,5 +31,5 @@ class ChatBoxesController < ApplicationController
 private
 
   def chat_box_params
-      params.require(:chat_boxes).permit(:user_id, :chat_id, :message)
+      params.require(:chat_box).permit(:user_id, :chat_id, :message)
     end

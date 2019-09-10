@@ -11,9 +11,7 @@ user1 = User.create(name:"Lawson" , online_status:true)
 user2 = User.create(name:"Hamza" , online_status:true)
 
 
-chat1 = Chat.create(name:"lawson/hamza")
-chat2 = Chat.create(name:"chat1222222")
-
+chat1 = Chat.create(name:"lawson/hamza" )
 
 ChatBox.create(user_id: user1.id , chat_id: chat1.id , message: "ahhahahahahhhahaa" )
 ChatBox.create(user_id: user2.id , chat_id: chat1.id , message: "ahhahahahahhhahaa" )
