@@ -4,6 +4,10 @@ In project directory, run
 
 to start the rails server
 
+Front end:
+
+https://github.com/lawsonhung/ChatApp-FrontEnd
+
 # README
 
 This README would normally document whatever steps are necessary to get the
