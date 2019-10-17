@@ -1,3 +1,5 @@
+In terminal, run `rails s` to start the rails server
+
 # README
 
 This README would normally document whatever steps are necessary to get the
