@@ -1,5 +1,7 @@
 In project directory, run 
-###`rails s` 
+
+### `rails s` 
+
 to start the rails server
 
 # README
