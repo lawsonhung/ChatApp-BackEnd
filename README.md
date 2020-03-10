@@ -1,12 +1,16 @@
+Let's Chat Project Link:
+
+http://angry-cabbage.surge.sh
+
+Front end:
+
+https://github.com/lawsonhung/ChatApp-FrontEnd
+
 In project directory, run 
 
 ### `rails s` 
 
 to start the rails server
-
-Front end:
-
-https://github.com/lawsonhung/ChatApp-FrontEnd
 
 # README
 
