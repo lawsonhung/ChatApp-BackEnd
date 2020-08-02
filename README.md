@@ -1,5 +1,6 @@
 # Let's Chat
 An app for talking to friends.
+
 Front end: https://github.com/lawsonhung/ChatApp-FrontEnd
 
 In project directory, run 
