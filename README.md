@@ -3,6 +3,8 @@ An app for talking to friends.
 
 Front end: https://github.com/lawsonhung/ChatApp-FrontEnd
 
+Demo: https://youtu.be/fzxA1PBSZeU
+
 In project directory, run 
 
 ### `rails s` 
