@@ -1,6 +1,8 @@
 # Let's Chat
 An app for talking to friends.
 
+Project: http://angry-cabbage.surge.sh/
+
 Front end: https://github.com/lawsonhung/ChatApp-FrontEnd
 
 Demo: https://youtu.be/fzxA1PBSZeU
